@@ -16,4 +16,4 @@
 
 - 完成了功能演示合集视频
 
-- 视频地址：TBD
+- 视频地址：https://share.plvideo.cn/front/video/view?vid=5a4e9c6927a18c41ab85b2a9e552ea50_5
